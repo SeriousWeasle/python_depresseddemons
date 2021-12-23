@@ -5,7 +5,7 @@ Fake NFT generator for a fake lineup named "Depressed Demons".
 Feel free to fork it and make whatever from it. The code can be used however you like, I wrote it in about 30 minutes and it is bad anyway.
 Please do credit me if you use any of the sprites in your projects. A link to my GitHub (https://github.com/SeriousWeasle) or to here (https://github.com/SeriousWeasle/python_depresseddemons) is fine.
 
-Usage for commercial applications (games, art, etc.) is fine by me as long as I am credited for the sprites, ***but I don't allow you to use these images to make actual NFT's***. *It is meant as a parody and should stay that way.*
+***I do not allow any of the sprites to be used in any paid product. This is meant as a parody to NFT's and therefore, these sprites and images made with the program should remain completely free.***
 
 # Why does this exist?
 I got bored and decided to make this atrocity.
